@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Anh Trung 👋
 
-<!--
-**anhtrungju/anhtrungju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 Welcome to my GitHub profile!
+- 📍 I'm @anhtrungju
+- ⏰ Last updated: 2025-03-05 10:26:31 UTC
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=anhtrungju&show_icons=true&theme=default)](https://github.com/anhtrungju)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhtrungju&layout=compact&theme=default)](https://github.com/anhtrungju)
+
+## 🤝 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-anhtrungju-blue?style=flat&logo=github)](https://github.com/anhtrungju)
+
+---
+⭐️ From [anhtrungju](https://github.com/anhtrungju)
